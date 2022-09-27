@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.imagenes {
+    width: 50%;
+}
+#fondo {
+
+}
+
+#puntero {
+    animation-delay: .5s;
+}
+
+#my {
+    animation-delay: 1s;
+}
+
+#mouse {
+    animation-delay: 1.3s;
+}
+
+#michelyazo {
+    animation-delay: 1.6s;
+}
+
+#mediaproducer {
+    animation-delay: 2s;
+}
+
