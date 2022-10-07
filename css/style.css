@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     transition: all 3850ms;
-    background-image: url(../images/fondo-logo.png);
+    background-image: url(../images/fondo.png);
 }
 
 .caja {
