@@ -11,13 +11,14 @@
     justify-content: center;
     align-items: center;
     transition: all 3850ms;
+    background-color: aquamarine !important;
 }
 
 .caja {
     width: 350px;
     height: 170px;
     position: absolute;
-    background-color: aquamarine;
+    
 }
 .puntero {
     position: absolute;
