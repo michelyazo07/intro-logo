@@ -13,6 +13,10 @@
     background-image: url('/images/fondo.png');
 }
 
+.back-box {
+    width: 100%;   
+}
+
 .caja {
     width: 350px;
     height: 170px;
