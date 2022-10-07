@@ -3,11 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
-body {
-    background-image: url('images/fondo.png') !important;
-}
-
 .centrar {
     position: fixed;
     width: 100vw;
@@ -16,14 +11,15 @@ body {
     justify-content: center;
     align-items: center;
     transition: all 3850ms;
+    background-image: url('/images/fondo.png');
 }
 
 .caja {
     width: 350px;
     height: 170px;
     position: absolute;
-    
 }
+
 .puntero {
     position: absolute;
     width: 350px;
@@ -56,4 +52,3 @@ body {
     width: 350px;
     z-index: 5;
 }
-
