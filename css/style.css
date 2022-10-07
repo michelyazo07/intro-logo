@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     transition: all 3850ms;
-    background-image: url(images/fondo.png);
+    background-image: url(../images/fondo-logo.png);
 }
 
 .caja {
@@ -19,6 +19,7 @@
     height: 170px;
     position: absolute;
 }
+
 .puntero {
     position: absolute;
     width: 350px;
