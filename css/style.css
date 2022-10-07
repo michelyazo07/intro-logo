@@ -4,7 +4,6 @@
     padding: 0;
 }
 .centrar {
-    position: fixed;
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -52,4 +51,3 @@
     width: 350px;
     z-index: 5;
 }
-
